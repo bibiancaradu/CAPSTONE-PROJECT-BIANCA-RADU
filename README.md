@@ -1,4 +1,4 @@
-# EPICODE_CAPSTONE-PROJECT-BIANCA-RADU
+# CAPSTONE-PROJECT-BIANCA-RADU
 Fast Fashion vs Sostenibilità
 ## Overview
 This project explores changing consumer behavior in the fashion industry across Europe, focusing on the contrast between fast fashion and the rising interest in sustainable fashion.
